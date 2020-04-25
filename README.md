@@ -1,6 +1,9 @@
 # kokoromi
 OSM Vector Tile experiment series
 
+# kokoromi series
+- [Solomon Island](https://github.com/optgeo/kokoromi-sb)
+
 # About the name
 The name *kokoromi* came from a traditional Japanese word that means 'trial' or 'experiment'. 
 
