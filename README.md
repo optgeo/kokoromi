@@ -2,7 +2,13 @@
 OSM Vector Tile experiment series
 
 # kokoromi series
-- [Solomon Islands](https://github.com/optgeo/kokoromi-sb)
+- [🇸🇧 Solomon Islands](https://github.com/optgeo/kokoromi-sb)
+- 🇹🇲 Turkmenistan
+- 🇻🇺 Vanuatu
+- 🇫🇯 Fiji
+
+# The tool used
+- [naru](https://github.com/unvt/naru)
 
 # About the name
 The name *kokoromi* came from a traditional Japanese word that means 'trial' or 'experiment'. 
