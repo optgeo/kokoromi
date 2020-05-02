@@ -4,8 +4,8 @@ OSM Vector Tile experiment series
 # kokoromi series
 - [🇸🇧 Solomon Islands](https://github.com/optgeo/kokoromi-sb)
 - [🇹🇲 Turkmenistan](https://github.com/optgeo/kokoromi-tm)
-- 🇻🇺 Vanuatu
-- 🇫🇯 Fiji
+- [🇻🇺 Vanuatu](https://github.com/optgeo/kokoromi-vu)
+- [🇫🇯 Fiji](https://github.com/optgeo/kokoromi-fj)
 
 # The tool used
 - [naru](https://github.com/unvt/naru)
