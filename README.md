@@ -7,6 +7,9 @@ OSM Vector Tile experiment series
 - [🇻🇺 Vanuatu](https://github.com/optgeo/kokoromi-vu)
 - [🇫🇯 Fiji](https://github.com/optgeo/kokoromi-fj)
 - [🇨🇭 Switzerland](https://github.com/optgeo/kokoromi-ch)
+- [🇸🇴 Somalia](https://github.com/optgeo/kokoromi-so)
+- [🇨🇫 Central African Republic](https://github.com/optgeo/kokoromi-cf)
+- [🇨🇩 Democratic Republic of Congo](https://github.com/optgeo/kokoromi-cd)
 
 # The tool used
 - [naru](https://github.com/unvt/naru)
