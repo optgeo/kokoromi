@@ -13,6 +13,22 @@ OSM Vector Tile experiment series
 - [🇰🇪 Kenya](https://github.com/optgeo/kokoromi-ke)
 - [🇹🇴 Tonga](https://github.com/optgeo/kokoromi-to)
 - [🇳🇿 New Zealand](https://github.com/optgeo/kokoromi-nz)
+- 🇦🇬 Antigua and Barbuda
+- 🇧🇸 Bahamas
+- 🇧🇧 Barbados
+- 🇧🇿 Belize
+- 🇨🇺 Cuba
+- 🇩🇲 Dominica
+- 🇩🇴 Dominican Republic
+- 🇬🇩 Grenada
+- 🇬🇾 Guyana
+- 🇭🇹 Haiti
+- 🇯🇲 Jamaica
+- 🇰🇳 Saint Kitts and Navis
+- 🇱🇨 Saint Lucia
+- 🇻🇨 Saint Vincent and the Grenadines
+- 🇸🇷 Suriname
+- 🇹🇹 Trinidad and Tobago
 
 # The tool used
 - [naru](https://github.com/unvt/naru)
