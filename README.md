@@ -13,7 +13,7 @@ OSM Vector Tile experiment series
 - [🇰🇪 Kenya](https://github.com/optgeo/kokoromi-ke)
 - [🇹🇴 Tonga](https://github.com/optgeo/kokoromi-to)
 - [🇳🇿 New Zealand](https://github.com/optgeo/kokoromi-nz)
-- 🇦🇬🇧🇸🇧🇧🇧🇿🇨🇺🇩🇲🇩🇴🇬🇩🇬🇾🇭🇹🇯🇲🇰🇳🇱🇨🇻🇨🇸🇷🇹🇹 ECLAC Caribbean
+- [🇦🇬🇧🇸🇧🇧🇧🇿🇨🇺🇩🇲🇩🇴🇬🇩🇬🇾🇭🇹🇯🇲🇰🇳🇱🇨🇻🇨🇸🇷🇹🇹 the Caribbean](https://github.com/optgeo/one-love)
 
 # The tool used
 - [naru](https://github.com/unvt/naru)
