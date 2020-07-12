@@ -14,9 +14,11 @@ OSM Vector Tile experiment series
 - [🇹🇴 Tonga](https://github.com/optgeo/kokoromi-to)
 - [🇳🇿 New Zealand](https://github.com/optgeo/kokoromi-nz)
 - [🇦🇬🇧🇸🇧🇧🇧🇿🇨🇺🇩🇲🇩🇴🇬🇩🇬🇾🇭🇹🇯🇲🇰🇳🇱🇨🇻🇨🇸🇷🇹🇹 the Caribbean](https://github.com/optgeo/one-love)
+- [🇧🇦🇷🇸🇲🇪🇽🇰🇦🇱🇲🇰 Western Balkans](https://github.com/optgeo/kokoromi-western-balkans-tiles)
 
 # The tool used
 - [naru](https://github.com/unvt/naru)
+- [mame](https://github.com/unvt/mame)
 
 # About the name
 The name *kokoromi* came from a traditional Japanese word that means 'trial' or 'experiment'. 
